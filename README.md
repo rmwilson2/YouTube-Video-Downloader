@@ -4,6 +4,7 @@
 ## Installation
 ```
 git clone https://github.com/rywils/Youtube-Video-Downloader.git
+cd YouTube-Video-Downloader
 pip3 install -r requirements.txt
 ```
 
