@@ -2,14 +2,14 @@
 
 
 ## Installation
-'''bash
+'''
 https://github.com/rywils/Youtube-Video-Downloader.git
 pip3 install requirements.txt
 '''
 
 ## Usage
 
-'''bash
+'''
 python3 ytdownloader.py URL PATH
 '''
 
