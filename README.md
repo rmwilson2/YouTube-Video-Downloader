@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-https://github.com/rywils/Youtube-Video-Downloader.git
+git clone https://github.com/rywils/Youtube-Video-Downloader.git
 pip3 install requirements.txt
 ```
 
